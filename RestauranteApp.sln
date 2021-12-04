@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point of Sale", "Point of S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F3435AA5-A9C1-4D9F-856E-FD9042B4C476}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Query", "SQL Query", "{B4C1D404-95E8-4B10-9299-09FFF80156B6}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\AppData\Local\Temp\Rar$DRa10208.19193\SQLQuery.sql = ..\..\..\AppData\Local\Temp\Rar$DRa10208.19193\SQLQuery.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
